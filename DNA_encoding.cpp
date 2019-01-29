@@ -92,7 +92,7 @@ int binaryCalculator(string str) {
 		}
 		indexCounter++;
 	}
-	cout << "The deciminal value of " << str << " is " << value << endl;
+	//cout << "The deciminal value of " << str << " is " << value << endl;
 	return value;
 }
 
